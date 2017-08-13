@@ -6,6 +6,9 @@
 * IEEE Transactions on Image Processing 11(11)(2002) 1260-1270 <http://people.virginia.edu/~sc5nf/01097762.pdf>
 * Original implementation is Modified by Burak BASTEM
 *
+* This code was developed based on the Rodinia Benchmark Suite and
+* some changes have been made on this algorithm.
+* 
 * IMPORTANT: 
 * 
 * The final version of this code has been developed by Mustafa SARAÇ and Mustafa Mert ÖGETÜRK
